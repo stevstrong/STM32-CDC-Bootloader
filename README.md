@@ -4,7 +4,7 @@ A bootloader based on USB CDC protocol for STM32 F1, F3 and F4 family MCUs.
 
 
 
-For each family the repository contain a respective Eclipse project.
+For each family the repository contains a respective Eclipse project.
 
 Features:
 - no special drive installation: the device with this bootloader will enumerate as a serial COM port.
